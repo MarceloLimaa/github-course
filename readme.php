@@ -1,3 +1,5 @@
 inniciando o trabalho com o segundo curso
 
-novo teste 
+novo teste
+
+teste c/ git diff 
