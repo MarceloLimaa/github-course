@@ -10,4 +10,8 @@ teste o git diff
 
 teste de edição de commit 
 
+teste do push 
+
+para github
+
 
